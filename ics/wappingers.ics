@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stevens Real Estate//School Calendars 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wappingers School Calendar 26-27
+X-WR-CALDESC:Wappingers Central School District 2026-2027. Shared by Steven
+ s Real Estate\, 845.256.8868.
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:wappingers-0-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260905
+SUMMARY:No school: Superintendent's Conference Days
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-1-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No school: Labor Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-2-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:First day: First day of school
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-3-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:No school: Yom Kippur
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-4-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:No school: Columbus Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-5-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Half day: Prof. development\, K-8
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-6-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-7-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:No school: Veterans Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-8-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+SUMMARY:Half day: K-6 parent conferences
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-9-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:No school: Thanksgiving Recess
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-10-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270102
+SUMMARY:No school: Winter Recess
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-11-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:No school: Martin Luther King Jr. Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-12-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Half day: Prof. development\, K-8
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-13-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:No school: Presidents' Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-14-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-15-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270330
+SUMMARY:No school: Spring Recess
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-16-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270601
+SUMMARY:No school: Memorial Day Weekend
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-17-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:No school: Juneteenth
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-18-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270625
+SUMMARY:Half day: Prof. development\, K-8
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-19-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Last day: Last day of school
+DESCRIPTION:Half day for K-8 Wappingers Central School District 2026-2027 c
+ alendar. Shared by Stevens Real Estate\, 845.256.8868. Confirm at wappinge
+ rsschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wappingers-20-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Wappingers Central School District 2026-2027 calendar. Shared b
+ y Stevens Real Estate\, 845.256.8868. Confirm at wappingersschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
