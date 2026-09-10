@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stevens Real Estate//School Calendars 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arlington School Calendar 26-27
+X-WR-CALDESC:Arlington Central School District 2026-2027. Shared by Stevens
+  Real Estate\, 845.256.8868.
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:arlington-0-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260905
+SUMMARY:No school: Superintendent's Conference Days
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-1-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No school: Labor Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-2-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:First day: First day of school
+DESCRIPTION:Kindergarten attends half days 9/8 and 9/9 Arlington Central Sc
+ hool District 2026-2027 calendar. Shared by Stevens Real Estate\, 845.256.
+ 8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-3-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260910
+SUMMARY:Half day: Kindergarten only
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-4-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:No school: Indigenous Peoples' Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-5-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-6-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:No school: Veterans Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-7-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Half day: Elementary half day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-8-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:No school: Thanksgiving Recess
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-9-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Half day: Elementary conferences
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-10-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270102
+SUMMARY:No school: Winter Recess
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-11-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:No school: Martin Luther King Jr. Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-12-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:No school: Presidents' Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-13-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Half day: Elementary half day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-14-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270330
+SUMMARY:No school: Spring Recess
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-15-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-16-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270601
+SUMMARY:No school: Memorial Day Recess
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-17-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Half day: Elementary half day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-18-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:No school: Juneteenth
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-19-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Half day: Last day\, half day
+DESCRIPTION:Arlington Central School District 2026-2027 calendar. Shared by
+  Stevens Real Estate\, 845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arlington-20-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Last day: Last day of school
+DESCRIPTION:Half day. Last day for elementary and middle school Arlington C
+ entral School District 2026-2027 calendar. Shared by Stevens Real Estate\,
+  845.256.8868. Confirm at arlingtonschools.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

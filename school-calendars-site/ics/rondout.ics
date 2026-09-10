@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stevens Real Estate//School Calendars 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rondout Valley School Calendar 26-27
+X-WR-CALDESC:Rondout Valley Central School District 2026-2027. Shared by St
+ evens Real Estate\, 845.256.8868.
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:rondout-0-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260905
+SUMMARY:No school: Conference Days and Labor Day weekend
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-1-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No school: Labor Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-2-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:First day: First day of school
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-3-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:No school: Yom Kippur
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-4-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:No school: Indigenous Peoples' Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-5-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Half day: Parent conferences
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-6-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Half day: Staff development
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-7-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-8-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:No school: Veterans Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-9-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:No school: Thanksgiving Recess
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-10-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270102
+SUMMARY:No school: Winter Recess
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-11-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Half day: Staff development
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-12-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:No school: Martin Luther King Jr. Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-13-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270216
+SUMMARY:No school: Presidents' Day Weekend
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-14-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Half day: Staff development
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-15-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270330
+SUMMARY:No school: Spring Recess
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-16-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Half day: Parent conferences
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-17-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-18-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270601
+SUMMARY:No school: Memorial Day Weekend
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-19-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270625
+SUMMARY:Half day: Staff development
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-20-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Last day: Last day of school
+DESCRIPTION:Half day Rondout Valley Central School District 2026-2027 calen
+ dar. Shared by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.
+ ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondout-21-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:No school: Superintendent's Conference Day
+DESCRIPTION:Rondout Valley Central School District 2026-2027 calendar. Shar
+ ed by Stevens Real Estate\, 845.256.8868. Confirm at rondout.k12.ny.us.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

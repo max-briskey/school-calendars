@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stevens Real Estate//School Calendars 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lourdes School Calendar 26-27
+X-WR-CALDESC:Our Lady of Lourdes High School 2026-2027. Shared by Stevens R
+ eal Estate\, 845.256.8868.
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:lourdes-0-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:No school: Professional Development Day\, faculty only
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-1-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:No school: Building closed
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-2-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No school: Labor Day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-3-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:No school: Faculty and staff only
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-4-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:First day: First day of school
+DESCRIPTION:Seniors 9/9\, sophomores and juniors 9/10\, freshmen 9/11. All 
+ four grades together Mon 9/14 Our Lady of Lourdes High School 2026-2027 ca
+ lendar. Shared by Stevens Real Estate\, 845.256.8868. Confirm at ollchs.or
+ g.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-5-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Half day: Seniors only\, half day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-6-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Half day: Warrior Spirit Day\, half day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-7-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Half day: PSAT and SAT day\, no school for grades 9 and 10
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-8-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:No school: Columbus Day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-9-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:No school: Veterans Day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-10-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:No school: Parent-teacher conferences\, no school for students
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-11-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:No school: Thanksgiving Recess
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-12-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Half day: Half day for students
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-13-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270102
+SUMMARY:No school: Christmas Recess
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-14-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:No school: Martin Luther King Jr. Day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-15-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:Half day: Mid-term exams
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-16-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:No school: Presidents' Day
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-17-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270403
+SUMMARY:No school: Easter Recess
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-18-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270602
+SUMMARY:No school: Memorial Day Recess
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-19-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Last day: Last day of school
+DESCRIPTION:Last day of classes. Exams run 6/14 to 6/24. Seniors finish Fri
+  5/21 Our Lady of Lourdes High School 2026-2027 calendar. Shared by Steven
+ s Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-20-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270625
+SUMMARY:Half day: Final and Regents exams\, students attend for exams only
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lourdes-21-2627@stevensre.com
+DTSTAMP:20260910T153248Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:No school: Juneteenth
+DESCRIPTION:Our Lady of Lourdes High School 2026-2027 calendar. Shared by S
+ tevens Real Estate\, 845.256.8868. Confirm at ollchs.org.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
