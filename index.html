@@ -48,6 +48,19 @@ a.act{font-family:Poppins,sans-serif;font-weight:600;font-size:15px;padding:14px
 a.act.ghost{background:var(--surface);color:var(--ink);border-color:var(--line);box-shadow:var(--shadow)}
 a.act .hint{font-family:'Source Sans 3',sans-serif;font-weight:400;font-size:12.5px;opacity:.72}
 a.act:focus-visible{outline:2px solid var(--gold-bright);outline-offset:2px}
+details.help{margin-top:14px;border:1px solid var(--line);border-radius:6px;
+  background:var(--surface);padding:11px 14px;font-size:13.5px;color:var(--muted)}
+details.help summary{cursor:pointer;font-family:Poppins,sans-serif;font-weight:600;
+  font-size:13px;color:var(--ink)}
+details.help p{margin-top:8px;line-height:1.5} details.help b{color:var(--ink)}
+.feedrow{display:flex;gap:8px;align-items:center;margin-top:8px;flex-wrap:wrap}
+.feedrow code{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--ink);
+  background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:7px 9px;
+  overflow-wrap:anywhere;flex:1 1 200px}
+.feedrow button{font-family:Poppins,sans-serif;font-weight:600;font-size:11.5px;
+  letter-spacing:.06em;text-transform:uppercase;padding:8px 13px;border-radius:99px;
+  border:1px solid var(--line);background:var(--paper);color:var(--gold);cursor:pointer}
+.feedrow button:hover{border-color:var(--gold-bright);color:var(--gold-bright)}
 .note{margin-top:18px;font-size:13px;line-height:1.55;color:var(--muted);
   border-left:3px solid var(--gold-bright);padding:10px 0 10px 13px}
 .note b{color:var(--ink);font-weight:600}
@@ -90,9 +103,17 @@ footer a{color:var(--gold)} footer .co{font-family:Poppins,sans-serif;font-weigh
   </div>
   <div class="actions">
     <a class="act" id="apple" href="#"><span>Add to Apple Calendar</span><span class="hint">iPhone, iPad, Mac</span></a>
-    <a class="act ghost" id="google" href="#" target="_blank" rel="noopener"><span>Add to Google Calendar</span><span class="hint">Android, Gmail</span></a>
-    <a class="act ghost" id="file" href="#" download><span>Download the file</span><span class="hint">Outlook, everything else</span></a>
+    <a class="act ghost" id="google" href="#" target="_blank" rel="noopener"><span>Add to Google Calendar</span><span class="hint">on a computer</span></a>
+    <a class="act ghost" id="file" href="#" download><span>Download the file</span><span class="hint">Outlook, Android</span></a>
   </div>
+  <details class="help">
+    <summary>Google Calendar not adding it?</summary>
+    <p>The Google Calendar phone app cannot subscribe to a calendar. Open
+    <b>calendar.google.com</b> on a computer, click the <b>+</b> next to "Other calendars",
+    choose <b>From URL</b>, and paste this:</p>
+    <div class="feedrow"><code id="feed"></code><button type="button" id="copy">Copy</button></div>
+    <p>It shows up on your phone automatically once added.</p>
+  </details>
   <div id="caveat"></div>
   <div id="list"></div>
   <footer>
@@ -120,9 +141,10 @@ function gcal(e,x){return "https://calendar.google.com/calendar/render?"+new URL
   dates:st(pd(e.s))+"/"+p1(e.e),
   details:"From the "+x.name+" 2026-2027 calendar. Shared by Stevens Real Estate. Confirm at "+x.source_url+"."})}
 function render(){
-  const x=byKey(sel.value), ics=BASE+"ics/"+x.key+".ics";
-  $("apple").href="webcal://"+ics.replace(/^https?:\/\//,"");
-  $("google").href="https://calendar.google.com/calendar/r?cid="+encodeURIComponent(ics);
+  const x=byKey(sel.value), ics=BASE+"ics/"+x.key+".ics", wc="webcal://"+ics.replace(/^https?:\/\//,"");
+  $("apple").href=wc;
+  $("feed").textContent=ics; $("feed").dataset.url=ics;
+  $("google").href="https://calendar.google.com/calendar/r?cid="+encodeURIComponent(wc);
   $("file").href=ics; $("file").setAttribute("download",x.short.replace(/[^A-Za-z0-9]+/g,"-")+"-2026-27.ics");
   $("src").innerHTML='Dates from <a href="https://'+x.source_url+'">'+x.source_url+"</a>.<br>Confirm before making travel plans.";
   $("caveat").innerHTML=x.caveat?'<div class="note"><b>Heads up.</b> '+x.caveat+"</div>"
@@ -139,6 +161,12 @@ function render(){
   listEl.innerHTML=h+"</ul>";
   document.title=x.short+" School Calendar 2026-27 | Stevens Real Estate";
 }
+$("copy").addEventListener("click",async()=>{
+  try{await navigator.clipboard.writeText($("feed").dataset.url);
+      $("copy").textContent="Copied";setTimeout(()=>$("copy").textContent="Copy",1600);}
+  catch(e){const r=document.createRange();r.selectNode($("feed"));
+      getSelection().removeAllRanges();getSelection().addRange(r);}
+});
 sel.addEventListener("change",()=>{history.replaceState(null,"","#"+sel.value);render()});
 addEventListener("hashchange",()=>{const k=location.hash.slice(1);if(k&&D.some(x=>x.key===k)){sel.value=k;render()}});
 const s0=location.hash.slice(1);
